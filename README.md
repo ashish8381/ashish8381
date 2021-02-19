@@ -21,6 +21,25 @@
 
 
 
+### 🛠 &nbsp;Tech Stack
+
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=ffffff)\
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=apache-netbeans-ide)
+
+
+
+
 <h2> <img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-</h2>
 
 # [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish6659&theme=algolia)](https://github.com/ashish6659/github-readme-stats)
