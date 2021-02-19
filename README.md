@@ -1,6 +1,6 @@
 <h1> <img alt="GIF" src="Night-Coding.gif" width=300px height=200px align="right">
 
-<p align="center" >Hello, 👋 I'm Ashish Yadav <img src="Developer.gif" width=70px></h1>
+<p align="center" >Hey there!,  <img src="wave.gif" width="30px"> I'm Ashish Yadav <img src="Developer.gif" width=70px></h1>
 
 <h3 align="center"><i>A Passionate Programmer from India</i></h3></br></br>
 
