@@ -69,11 +69,11 @@ def mindit():
 </br>
 <h2> 🤝 Connect with me:-</h2>
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 </br>
 
-[youtube]: https://www.youtube.com/channel/UCafv0dsb4Xp8sSWoKdmw5BQ
+[youtube]: https://www.instagram.com/u/ashish827
 
-[linkedin]: https://www.linkedin.com/in/samarpan-dasgupta-4aa1061b0/
+[linkedin]: https://www.linkedin.com/in/ashish-yadav-b1ba24205/
