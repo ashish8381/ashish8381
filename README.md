@@ -21,7 +21,7 @@
 
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tools and Programming Languages:-
 
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -73,19 +73,6 @@ def mindit():
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 </br>
-
-<h2> ⚒️ Tools and Programming Languages:- </h2>
-<p align="left">
-<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/c++_lang.png?raw=true" width=60px>
-<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/python_logo.png?raw=true" width=40px>&nbsp&nbsp
-<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/git.png?raw=true" width=40px>&nbsp&nbsp
-<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/github.png?raw=true" width=40px>&nbsp&nbsp
-<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/mysql_logo.png?raw=true" width=80px>
-<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/html_logo.png?raw=true" width=50px>
-<img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/css_logo.png?raw=true" width=50px>
-</p>
-<br/>
-
 [instagram]: https://www.instagram.com/u/ashish827
 
 [linkedin]: https://www.linkedin.com/in/ashish-yadav-b1ba24205
