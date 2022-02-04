@@ -12,11 +12,11 @@
 <br></br>
 
 
-- 💥 ***I'm Currently Preparing for NIMCET.***</br></br>
+- 💥 ***I'm Currently Pursuing MCA (Master of Computer Application).***</br></br>
 - 🔭 ***I'm BCA (Bachelors in Computer Application) Graduated Student.***</br></br>
 - 🌱 ***I’m Learning Flutter and try to make Some Projects in Flutter.***</br></br>
 - 🎯 ***I’m focusing on Competitive Programming.***</br></br>
-- 🥅 ***2021 Goals: Contribute more to Open Source projects.***</br></br>
+- 🥅 ***2022 Goals: Contribute more to Open Source projects.***</br></br>
 - ⚡ ***Fun fact: Never ask “why?” Just be grateful it works!.*** 😂</br></br>
 - ***<details> <summary> 📫  How to reach me :***</summary><a href="mailto:ya0285981@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a></details>
 - ***<details> <summary>*** 🤝  ***How to connect with me :***</summary><a href="(https://www.linkedin.com/in/ashish-yadav-b1ba24205/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="22px"/> </a></details>
