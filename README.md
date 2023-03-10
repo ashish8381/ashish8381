@@ -5,7 +5,7 @@
 <h3 align="center"><i>A Passionate Programmer from India</i></h3></br></br>
 
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/ashish6659) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=ashish6659.profileviews-badge)](https://github.com/ashish6659) [![Followers](https://img.shields.io/github/followers/ashish6659?style=social)](https://github.com/ashish6659?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ashish6659) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fashish827.web.app)](https://ashish827.web.app) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ashish827/)
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/ashish8381) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=ashish8381.profileviews-badge)](https://github.com/ashish8381) [![Followers](https://img.shields.io/github/followers/ashish8381?style=social)](https://github.com/ashish8381?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ashish8381) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fashish827.web.app)](https://ashish827.web.app) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ashish827/)
 [![Connect on Instagram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/u/ashish827)
 [![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=twitter&style=social)](https://www.twitter.com/_ashish_827)
 [![Playstore](https://img.shields.io/badge/--Playstore?label=Playstore&logo=google-play&style=social)](https://play.google.com/store/apps/developer?id=Am+DevOps.)
@@ -42,24 +42,24 @@
 
 
 
-<h2> <img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-</h2>
+<h2> <img src="https://raw.githubusercontent.com/ashish8381/myself/Images_For_README/heart.png?raw=true" width=30px /> Github Stats:-</h2>
 
-# [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish6659&theme=algolia)](https://github.com/ashish6659/github-readme-stats)
-
-</br>
-
-## <img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/heart.png?raw=true" width=30px /> Most Used Languages:-
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish6659&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/ashish6659/github-readme-stats)
+# [![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashish8381&theme=algolia)](https://github.com/ashish8381/github-readme-stats)
 
 </br>
 
-## <img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/heart.png?raw=true" width=30px /> Github Streak Stats:-
-# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish6659&theme=tokyonight)](https://github.com/ashish6659/github-readme-streak-stats)
+## <img src="https://raw.githubusercontent.com/ashish8381/myself/Images_For_README/heart.png?raw=true" width=30px /> Most Used Languages:-
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8381&layout=compact&theme=vision-friendly-dark&langs_count=6)](https://github.com/ashish8381/github-readme-stats)
 
 </br>
 
-## <img src="https://raw.githubusercontent.com/ashish6659/myself/Images_For_README/heart.png?raw=true" width=30px /> Github Trophies:-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashish6659&theme=gruvbox)](https://github.com/ashish6659/github-profile-trophy)
+## <img src="https://raw.githubusercontent.com/ashish8381/myself/Images_For_README/heart.png?raw=true" width=30px /> Github Streak Stats:-
+# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashish8381&theme=tokyonight)](https://github.com/ashish8381/github-readme-streak-stats)
+
+</br>
+
+## <img src="https://raw.githubusercontent.com/ashish8381/myself/Images_For_README/heart.png?raw=true" width=30px /> Github Trophies:-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashish8381&theme=gruvbox)](https://github.com/ashish8381/github-profile-trophy)
 
 
 <h2><i> <p align="center"> Show ❤️ by Starring Some of my Repos</i></h2>
