@@ -7,16 +7,39 @@
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/ashish8381) [![Profile](https://visitor-badge.laobi.icu/badge?page_id=ashish8381.visitor-badge-query&query_only=true)](https://github.com/ashish8381) [![Followers](https://img.shields.io/github/followers/ashish8381?style=social)](https://github.com/ashish8381?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ashish8381) [![Website](https://img.shields.io/website?url=https%3A%2F%2Fashish827.web.app)](https://ashish827.web.app) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ashish827/)
 [![Connect on Instagram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/u/ashish827)
 [![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=twitter&style=social)](https://www.twitter.com/_ashish_827)
-[![Playstore](https://img.shields.io/badge/--Playstore?label=Playstore&logo=google-play&style=social)](https://play.google.com/store/apps/developer?id=Am+DevOps.)
+[![Playstore](https://img.shields.io/badge/--Playstore?label=Playstore&logo=google-play&style=social)](https://play.google.com/store/apps/dev?id=6271701948137629801)
 <br></br>
 
 
-- 💥 ***I'm Currently Looking for a Job Opportunity.***</br></br>
-- 🔭 ***I'm MCA (Master of Computer Application) Post Graduated Student.***</br></br>
-- 🌱 ***I’m Learning Flutter and try to make Some Projects in Flutter.***</br></br>
-- 🎯 ***I’m focusing on Competitive Programming.***</br></br>
-- 🥅 ***2024 Goals: Contribute more to Open Source projects.***</br></br>
-- ⚡ ***Fun fact: Never ask “why?” Just be grateful it works!.*** 😂</br></br>
+***💼 I specialize in building scalable mobile applications using:***
+- ***📱 Android (Java/Kotlin)***
+- ***💙 Flutter (Cross-platform apps)***
+- ***🔗 REST APIs & Backend Integration***
+- ***🔔 Firebase (FCM, Auth, Firestore)***
+
+🧠 ***Currently working on:***
+- ***Advanced Flutter tools & debugging solutions (Console Plus 🚀)***
+- ***Real-time apps with notifications & API integrations***
+- ***Improving app performance & UI/UX***
+
+💡 ***I enjoy solving real-world problems through mobile apps and exploring new technologies.***
+
+---
+
+### 🧰 Tech Stack
+- **Languages:** Java, Dart, Kotlin, Kotlin
+- **Frameworks:** Flutter, Android SDK
+- **Backend & Tools:** Firebase, REST APIs, Spring Boot (Basics)
+- **Tools:** Git, GitHub, Android Studio, VS Code
+
+---
+
+### 🎯 What I'm Looking For
+- ***🚀 Android / Flutter Developer roles***
+- ***🤝 Freelance or full-time opportunities***
+- ***🌍 Open-source collaborations***
+
+---
 - ***<details> <summary> 📫  How to reach me :***</summary><a href="mailto:ya0285981@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="22px"/> </a></details>
 - ***<details> <summary>*** 🤝  ***How to connect with me :***</summary><a href="(https://www.linkedin.com/in/ashish827/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="22px"/> </a></details>
 
@@ -59,7 +82,6 @@
 
 ## <img src="https://raw.githubusercontent.com/ashish8381/myself/Images_For_README/heart.png?raw=true" width=30px /> Github Trophies:-
 [![trophy](https://github-profile-trophy.vercel.app/?username=ashish8381&theme=gruvbox)](https://github.com/ashish8381/github-profile-trophy)
-
 
 <h2><i> <p align="center"> Show ❤️ by Starring Some of my Repos</i></h2>
 
